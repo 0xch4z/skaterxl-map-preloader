@@ -1,0 +1,11 @@
+{
+  "Id": "MapPreloader",
+  "DisplayName": "MapPreloader",
+  "Author": "charliekenney23",
+  "Version": "0.0.1",
+  "ManagerVersion": "0.15.0",
+  "Requirements": [],
+  "LoadAfter": [],
+  "AssemblyName": "SkaterXLMapPreloader.dll",
+  "EntryMethod": "SkaterXLMapPreloader.Main.Load"
+}
